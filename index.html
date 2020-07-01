@@ -25,12 +25,45 @@
 	top:-100%;bottom:-100%;
   }
 </style>
+
+
+<script>
+
+
+	// Find matches
+	var mql = window.matchMedia("(orientation: landscape)");
+	
+	// If there are matches, we're in portrait
+	if(mql.matches) {  
+	  window.location = "https://hivellybrandvert.000webhostapp.com/";
+	} else {  
+	
+	}
+	
+	// Add a media query change listener
+	mql.addListener(function(m) {
+	  if(m.matches) {
+		window.location = "https://hivellybrandvert.000webhostapp.com/";
+	  }
+	  else {
+	   
+	  }
+	});
+		
+	</script>
+	
+
+
+
+
+
+
 <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
 <script src="brand.hivelly.js?1593578827370"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
-	canvas = document.getElementById("canvas");
+	canvas = document.getElementById("canvas");de
 	anim_container = document.getElementById("animation_container");
 	dom_overlay_container = document.getElementById("dom_overlay_container");
 	var comp=AdobeAn.getComposition("B2C34A8A5C84924FB2AD8C9EC65F245D");
