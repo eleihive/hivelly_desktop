@@ -36602,7 +36602,7 @@ if (reversed == null) { reversed = false; }
 		root.targetTimeline = this;
 		root.targetTimeline.loop = true;
 		root.targetTimeline.force = 3;
-		root.targetTimeline.friction = 1.5;
+		root.targetTimeline.friction = 0.92;
 		root.targetTimeline.direction = -1; // scroll direction
 		root.targetTimeline.minFrame = 0; // set the start range value here
 		root.targetTimeline.maxFrame = root.targetTimeline.totalFrames - 1; // set the end range value here
