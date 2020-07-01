@@ -25,6 +25,27 @@
 	top:-100%;bottom:-100%;
   }
 </style>
+
+
+
+
+<script src="code.jquery.com/jquery-1.10.2.min.js"></script> 
+<script src="code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script> 
+<script>
+//Don't forget to include these ^ 
+$( window ).on( "orientationchange", function( event ) { 
+    if (event.orientation == 'portrait'){ 
+         // load portrait version if not mobile browser (except the ipad one) 
+          if(!(/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) ) {
+              window.location = "http://hivellybrandvert.000webhostapp.com";
+          };
+    };
+});
+</script>
+
+
+
+
 <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
 <script src="brand.hivelly.js?1593559234637"></script>
 <script>
