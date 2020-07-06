@@ -33785,7 +33785,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_158.setTransform(420.1,1148.95,0.4725,0.4724,0,0,0,0.2,0);
 	this.instance_158._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_158).wait(280).to({_off:false},0).to({y:472.2},63).wait(61).to({regX:0.3,regY:0.1,x:257.3,y:472.25},17).to({regX:0.4,regY:0.2,x:202.65,y:472.3},6).to({x:102.45},11).to({regY:0.3,x:-46.85},16).to({regX:0.3,regY:0.4,x:-196.2},16).to({x:-364.15},18).to({x:-1197.15},18).to({x:-831.9,y:472.25},17).to({_off:true},1).wait(962));
+	this.timeline.addTween(cjs.Tween.get(this.instance_158).wait(280).to({_off:false},0).to({y:472.2},63).wait(61).to({regX:0.3,regY:0.1,x:343.55,y:472.25},8).to({x:257.3},9).to({regX:0.4,regY:0.2,x:202.65,y:472.3},6).to({regX:0.6,regY:0.3,x:157.15},5).to({regX:0.4,regY:0.2,x:102.45},6).to({regX:0.6,regY:0.3,x:46.5},6).to({regX:0.4,x:-46.85},10).to({regX:0.3,regY:0.4,x:-196.2},16).to({x:-364.15},18).to({x:-1197.15},18).to({x:-831.9,y:472.25},17).to({_off:true},1).wait(962));
 
 	// BordeGreenLast
 	this.instance_159 = new lib.BorderMascaraStars();
@@ -34655,21 +34655,21 @@ if (reversed == null) { reversed = false; }
 	this.instance_165.setTransform(963.05,667.1,0.9334,0.9334,0,0,0,488.9,187.7);
 	this.instance_165._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_165).wait(897).to({_off:false},0).wait(14).to({regX:488.7,regY:188.1,scaleX:0.3591,scaleY:0.3589,rotation:-90,x:288.9,y:350.75},76).wait(38).to({regX:488.4,regY:187.7,x:-246.25,y:361},46).to({_off:true},1).wait(238).to({_off:false,x:-147.25},0).to({_off:true},1).wait(175));
+	this.timeline.addTween(cjs.Tween.get(this.instance_165).wait(906).to({_off:false},0).wait(23).to({regX:488.7,regY:188.1,scaleX:0.3591,scaleY:0.3589,rotation:-90,x:288.9,y:350.75},64).wait(32).to({regX:488.4,regY:187.7,x:-246.25,y:361},46).to({_off:true},1).wait(238).to({_off:false,x:-147.25},0).to({_off:true},1).wait(175));
 
 	// WEARE_sep
 	this.instance_166 = new lib.weareBig();
 	this.instance_166.setTransform(963.55,420.6,0.9334,0.9334,0,0,0,485.9,187.7);
 	this.instance_166._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_166).wait(897).to({_off:false},0).wait(3).to({regX:485.8,regY:188,scaleX:0.3613,scaleY:0.3613,rotation:-90,x:289.3,y:716.3},75).wait(50).to({regX:485.6,regY:187.6,x:-245.9,y:733.5},46).to({_off:true},1).wait(238).to({_off:false,x:-146.9},0).to({_off:true},1).wait(175));
+	this.timeline.addTween(cjs.Tween.get(this.instance_166).wait(906).to({_off:false},0).wait(11).to({regX:485.8,regY:188,scaleX:0.3613,scaleY:0.3613,rotation:-90,x:289.3,y:716.3},64).wait(44).to({regX:485.6,regY:187.6,x:-245.9,y:733.5},46).to({_off:true},1).wait(238).to({_off:false,x:-146.9},0).to({_off:true},1).wait(175));
 
 	// WEARESOCIAL_merged
 	this.instance_167 = new lib.wearecopia();
 	this.instance_167.setTransform(4625.35,510,0.9334,0.9334,0,0,0,499.2,319.8);
 	this.instance_167._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_167).wait(346).to({_off:false},0).to({regY:319.9,x:3304.4,y:510.05},142).wait(79).to({y:544},0).to({x:2430.7},86).wait(134).to({x:975.9},110).to({_off:true},1).wait(588));
+	this.timeline.addTween(cjs.Tween.get(this.instance_167).wait(346).to({_off:false},0).to({regY:319.9,x:3304.4,y:510.05},142).wait(79).to({y:544},0).to({x:2430.7},86).wait(134).to({regY:320.1,scaleX:0.9333,scaleY:0.9333,x:2324.9,y:544.1},8).to({regX:499.3,x:2216.9},9).to({regY:320.2,x:2109.75,y:544.2},9).to({x:2003.25},9).to({x:1898},9).to({x:1792.25,y:544.15},9).to({x:1685.35},9).to({x:1591.1},8).to({x:1496.05,y:544.1},8).to({x:1402.05},8).to({x:1308.95,y:544.05},8).to({x:1224.2},7).to({regX:499.2,regY:319.9,scaleX:0.9334,scaleY:0.9334,x:1128.9,y:544},9).to({x:975.9},9).to({_off:true},1).wait(579));
 
 	// Capa_8
 	this.instance_168 = new lib.FondoBlackPrimeroBoxcopia();
@@ -34755,7 +34755,7 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/brand.hivelly_atlas_1.png?1594009258785", id:"brand.hivelly_atlas_1"}
+		{src:"images/brand.hivelly_atlas_1.png?1594012814762", id:"brand.hivelly_atlas_1"}
 	],
 	preloads: []
 };
