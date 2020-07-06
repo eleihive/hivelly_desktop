@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"brand.hivelly_atlas_1", frames: [[3918,669,97,85],[689,1140,687,802],[3317,1644,687,802],[4063,621,26,28],[2595,1675,687,802],[1378,1687,687,802],[689,1944,687,802],[1378,1140,230,181],[3921,543,140,124],[2595,834,720,839],[3317,834,691,808],[1378,2491,685,803],[0,2754,800,137],[0,2893,800,137],[0,3032,800,137],[0,3171,800,137],[2756,3252,800,137],[802,3296,800,137],[1604,3296,800,137],[0,3310,800,137],[0,1140,687,808],[0,1950,687,802],[3574,605,342,225],[3918,756,129,47],[1378,1323,129,47],[0,0,1650,1138],[2756,2861,295,188],[802,2939,295,188],[2756,3051,295,188],[3558,3252,292,188],[2406,3283,292,188],[2700,3391,292,188],[4063,543,31,37],[4049,786,44,11],[2756,2479,295,189],[2756,2670,295,189],[802,2748,295,189],[3574,375,345,228],[2067,1687,345,228],[2067,1917,345,228],[2067,2147,345,228],[4063,582,31,37],[4010,1000,40,37],[4049,747,47,37],[4010,961,53,37],[4010,922,60,37],[4010,883,67,37],[3921,375,172,166],[4010,844,70,37],[4017,708,72,37],[4017,669,75,37],[1652,834,941,851],[4010,805,78,37],[3284,2448,687,802],[1652,0,1920,832],[2067,2479,687,802],[3574,0,496,373]]}
+		{name:"brand.hivelly_atlas_1", frames: [[689,1140,687,802],[3317,1644,687,802],[4067,512,26,28],[2595,1675,687,802],[1378,1687,687,802],[689,1944,687,802],[2595,834,720,839],[3317,834,691,808],[1378,2491,685,803],[0,2754,800,137],[0,2893,800,137],[0,3032,800,137],[0,3171,800,137],[2756,3252,800,137],[802,3296,800,137],[1604,3296,800,137],[0,3310,800,137],[0,1140,687,808],[0,1950,687,802],[3574,605,342,225],[3921,375,129,47],[3921,424,129,47],[0,0,1650,1138],[2756,2861,295,188],[802,2939,295,188],[2756,3051,295,188],[3558,3252,292,188],[2406,3283,292,188],[2700,3391,292,188],[4052,414,31,37],[4052,453,44,11],[2756,2479,295,189],[2756,2670,295,189],[802,2748,295,189],[3574,375,345,228],[2067,1687,345,228],[2067,1917,345,228],[2067,2147,345,228],[4052,551,31,37],[4052,375,40,37],[3976,590,47,37],[3921,590,53,37],[3990,551,60,37],[3921,551,67,37],[3995,512,70,37],[3921,512,72,37],[4001,473,75,37],[1652,834,941,851],[3921,473,78,37],[3284,2448,687,802],[1652,0,1920,832],[2067,2479,687,802],[3574,0,496,373]]}
 ];
 
 
@@ -26,401 +26,373 @@ lib.ssMetadata = [
 
 
 
-(lib.asteroiDsDs24 = function() {
+(lib.flash0aiActivos = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.flash0aiActivos = function() {
+(lib.Mapadebits100 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits100 = function() {
+(lib.Mapadebits101 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits101 = function() {
+(lib.Mapadebits102 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits102 = function() {
+(lib.Mapadebits103 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits103 = function() {
+(lib.Mapadebits104 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits104 = function() {
+(lib.Mapadebits16 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits14 = function() {
+(lib.Mapadebits17 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits15 = function() {
+(lib.Mapadebits18 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits16 = function() {
+(lib.Mapadebits21 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits17 = function() {
+(lib.Mapadebits22 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits18 = function() {
+(lib.Mapadebits23 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits21 = function() {
+(lib.Mapadebits24 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits22 = function() {
+(lib.Mapadebits25 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits23 = function() {
+(lib.Mapadebits26 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits24 = function() {
+(lib.Mapadebits27 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits25 = function() {
+(lib.Mapadebits28 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits26 = function() {
+(lib.Mapadebits31 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits27 = function() {
+(lib.Mapadebits33 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits28 = function() {
+(lib.Mapadebits39 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits31 = function() {
+(lib.Mapadebits41 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits33 = function() {
+(lib.Mapadebits42 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits39 = function() {
+(lib.Mapadebits43 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits41 = function() {
+(lib.Mapadebits63 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits42 = function() {
+(lib.Mapadebits64 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits43 = function() {
+(lib.Mapadebits65 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits63 = function() {
+(lib.Mapadebits66 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits64 = function() {
+(lib.Mapadebits67 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits65 = function() {
+(lib.Mapadebits68 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits66 = function() {
+(lib.Mapadebits70 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits67 = function() {
+(lib.Mapadebits71 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits68 = function() {
+(lib.Mapadebits74 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits70 = function() {
+(lib.Mapadebits75 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits71 = function() {
+(lib.Mapadebits76 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits74 = function() {
+(lib.Mapadebits79 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits75 = function() {
+(lib.Mapadebits80 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits76 = function() {
+(lib.Mapadebits81 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits79 = function() {
+(lib.Mapadebits82 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits80 = function() {
+(lib.Mapadebits84 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits81 = function() {
+(lib.Mapadebits85 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits82 = function() {
+(lib.Mapadebits86 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits84 = function() {
+(lib.Mapadebits87 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits85 = function() {
+(lib.Mapadebits88 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits86 = function() {
+(lib.Mapadebits89 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits87 = function() {
+(lib.Mapadebits90 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits88 = function() {
+(lib.Mapadebits91 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits89 = function() {
+(lib.Mapadebits92 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits9 = function() {
+(lib.Mapadebits94 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits90 = function() {
+(lib.Mapadebits95 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits91 = function() {
+(lib.Mapadebits96 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits92 = function() {
+(lib.Mapadebits98 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits94 = function() {
+(lib.Mapadebits99 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Mapadebits95 = function() {
-	this.initialize(ss["brand.hivelly_atlas_1"]);
-	this.gotoAndStop(52);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Mapadebits96 = function() {
-	this.initialize(ss["brand.hivelly_atlas_1"]);
-	this.gotoAndStop(53);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Mapadebits98 = function() {
-	this.initialize(ss["brand.hivelly_atlas_1"]);
-	this.gotoAndStop(54);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Mapadebits99 = function() {
-	this.initialize(ss["brand.hivelly_atlas_1"]);
-	this.gotoAndStop(55);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.wallets15 = function() {
 	this.initialize(ss["brand.hivelly_atlas_1"]);
-	this.gotoAndStop(56);
+	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
 
@@ -16080,93 +16052,6 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = getMCSymbolPrototype(lib.bandatexto, new cjs.Rectangle(0,0,18,18), null);
-
-
-(lib.asteroide9 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_1
-	this.instance = new lib.asteroiDsDs24();
-	this.instance.setTransform(19,17,0.6,0.6);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = getMCSymbolPrototype(lib.asteroide9, new cjs.Rectangle(19,17,58.2,51), null);
-
-
-(lib.asteroide8 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_1
-	this.instance = new lib.Mapadebits15();
-	this.instance.setTransform(42,37,0.4002,0.4002);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = getMCSymbolPrototype(lib.asteroide8, new cjs.Rectangle(42,37,56,49.599999999999994), null);
-
-
-(lib.asteroide7 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_1
-	this.instance = new lib.Mapadebits14();
-	this.instance.setTransform(45,35,0.6087,0.6087);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = getMCSymbolPrototype(lib.asteroide7, new cjs.Rectangle(45,35,140,110.19999999999999), null);
-
-
-(lib.asteroide1 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_1
-	this.instance = new lib.Mapadebits9();
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = getMCSymbolPrototype(lib.asteroide1, new cjs.Rectangle(0,0,172,166), null);
 
 
 (lib.arrow2 = function(mode,startPosition,loop,reversed) {
@@ -32988,63 +32873,6 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(-36.6,-4.6,726.3000000000001,634.3000000000001);
 
 
-(lib.Asteroidestodos = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_14
-	this.instance = new lib.asteroide8();
-	this.instance.setTransform(225.25,176.8,0.9334,0.9334,0,0,0,70,62.1);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).to({x:214.25},174).to({x:225.25},130).wait(1));
-
-	// AsteoridTwo
-	this.instance_1 = new lib.asteroide9();
-	this.instance_1.setTransform(320,40.95,0.9334,0.9334,0,0,0,48.1,42.1);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({regX:47.9,regY:42,rotation:29.9994,x:311,y:41},174).to({regX:0,regY:0,rotation:0,x:275.3,y:1.8},130).wait(1));
-
-	// AsteroidFive
-	this.instance_2 = new lib.asteroide7();
-	this.instance_2.setTransform(235.3,98.8,0.5918,0.5918,0.5584,0,0,115.2,90.7);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({regY:90.8,rotation:-14.4397,x:217.3,y:98.85},174).to({regY:90.7,rotation:0.5584,x:235.3,y:98.8},130).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(168.9,-21.3,178.99999999999997,221);
-
-
-(lib.asteroide2 = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// Capa_1
-	this.instance = new lib.asteroide1();
-	this.instance.setTransform(86.1,83,1,1,0,0,0,86.1,83);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-	this._renderFirstFrame();
-
-}).prototype = getMCSymbolPrototype(lib.asteroide2, new cjs.Rectangle(0,0,172,166), null);
-
-
 (lib.arrowsLetsGo = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
@@ -33531,43 +33359,6 @@ if (reversed == null) { reversed = false; }
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(0,-549,976.9,908.5);
-
-
-(lib.AsteroidOne = function(mode,startPosition,loop,reversed) {
-if (loop == null) { loop = true; }
-if (reversed == null) { reversed = false; }
-	var props = new Object();
-	props.mode = mode;
-	props.startPosition = startPosition;
-	props.labels = {};
-	props.loop = loop;
-	props.reversed = reversed;
-	cjs.MovieClip.apply(this,[props]);
-
-	// AsteroidOne
-	this.instance = new lib.asteroide2();
-	this.instance.setTransform(111.5,100.85,0.9334,0.9334,-174.9906,0,0,86,82.9);
-	this.instance._off = true;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(241).to({_off:false},0).to({scaleX:0.9333,scaleY:0.9333,rotation:-99.9902},117).wait(2));
-
-	// AsteroidOne
-	this.instance_1 = new lib.asteroide2();
-	this.instance_1.setTransform(111.35,100.8,0.9333,0.9333,59.9974,0,0,86,83);
-	this.instance_1._off = true;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(121).to({_off:false},0).to({regY:82.9,scaleX:0.9334,scaleY:0.9334,rotation:185.0094,x:111.5,y:100.85},120).to({_off:true},1).wait(118));
-
-	// AsteroidOne
-	this.instance_2 = new lib.asteroide2();
-	this.instance_2.setTransform(111.35,100.8,0.9334,0.9334,-90.0009,0,0,86,83);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({scaleX:0.9333,scaleY:0.9333,rotation:59.9974},120).to({_off:true},1).wait(239));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-0.2,-10.7,223.29999999999998,223.2);
 
 
 // stage content:
@@ -35189,39 +34980,25 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_6}]},429).to({state:[{t:this.instance_176}]},137).to({state:[{t:this.instance_177}]},142).to({state:[]},1).wait(777));
 	this.timeline.addTween(cjs.Tween.get(this.instance_176).wait(566).to({_off:false},0).to({_off:true,x:-747.5},142).wait(778));
 
-	// AsteoridTwo
-	this.instance_178 = new lib.Asteroidestodos();
-	this.instance_178.setTransform(1658,581.15,1,1,25.7221,0,0,270.4,108.7);
+	// Capa_12
+	this.instance_178 = new lib.Interpolación147("synched",0);
+	this.instance_178.setTransform(915,540);
 	this.instance_178._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_178).wait(1067).to({_off:false},0).to({_off:true},122).wait(297));
-
-	// AsteroidOne
-	this.instance_179 = new lib.AsteroidOne();
-	this.instance_179.setTransform(1765,575,1,1,0,0,0,111.5,111.5);
+	this.instance_179 = new lib.Interpolación148("synched",0);
+	this.instance_179.setTransform(949,540);
 	this.instance_179._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_179).wait(438).to({_off:false},0).to({_off:true},164).wait(884));
-
-	// Capa_12
-	this.instance_180 = new lib.Interpolación147("synched",0);
-	this.instance_180.setTransform(915,540);
-	this.instance_180._off = true;
-
-	this.instance_181 = new lib.Interpolación148("synched",0);
-	this.instance_181.setTransform(949,540);
-	this.instance_181._off = true;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_180).wait(429).to({_off:false},0).to({_off:true,x:949},105).wait(952));
-	this.timeline.addTween(cjs.Tween.get(this.instance_181).wait(429).to({_off:false},105).wait(33).to({startPosition:0},0).to({x:984},141).wait(1).to({startPosition:0},0).wait(78).to({startPosition:0},0).to({x:1006},48).to({_off:true},1).wait(254).to({_off:false},0).to({x:1054},201).to({_off:true},3).wait(192));
+	this.timeline.addTween(cjs.Tween.get(this.instance_178).wait(429).to({_off:false},0).to({_off:true,x:949},105).wait(952));
+	this.timeline.addTween(cjs.Tween.get(this.instance_179).wait(429).to({_off:false},105).wait(33).to({startPosition:0},0).to({x:984},141).wait(1).to({startPosition:0},0).wait(78).to({startPosition:0},0).to({x:1006},48).to({_off:true},1).wait(254).to({_off:false},0).to({x:1054},201).to({_off:true},3).wait(192));
 
 	// Capa_15
-	this.instance_182 = new lib.FONDO();
-	this.instance_182.setTransform(963.1,484.15,1,1,0,0,0,996.9,511.2);
-	this.instance_182.alpha = 0;
-	this.instance_182._off = true;
+	this.instance_180 = new lib.FONDO();
+	this.instance_180.setTransform(963.1,484.15,1,1,0,0,0,996.9,511.2);
+	this.instance_180.alpha = 0;
+	this.instance_180._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_182).wait(121).to({_off:false},0).to({y:478.55,alpha:0.8281},58).to({y:484.15,alpha:1},13).wait(60).to({alpha:0},23).to({_off:true},1).wait(1210));
+	this.timeline.addTween(cjs.Tween.get(this.instance_180).wait(121).to({_off:false},0).to({y:478.55,alpha:0.8281},58).to({y:484.15,alpha:1},13).wait(60).to({alpha:0},23).to({_off:true},1).wait(1210));
 
 	// hit
 	this.hit = new lib.Hit();
@@ -35244,7 +35021,7 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/brand.hivelly_atlas_1.png?1594033911172", id:"brand.hivelly_atlas_1"}
+		{src:"images/brand.hivelly_atlas_1.png?1594034279046", id:"brand.hivelly_atlas_1"}
 	],
 	preloads: []
 };
